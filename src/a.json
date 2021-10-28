@@ -1,0 +1,17 @@
+{
+  "id": "2bb253d4-97a3-4d8e-8bb1-51a42da3ff6d",
+  "duration": 98400,
+  "is_archived": false,
+  "from": "+33185484108",
+  "to": "+33108661800",
+  "direction": "inbound",
+  "call_type": "missed",
+  "via": "+33170755267",
+  "created_at": "2021-10-24T17:30:12.300Z",
+  "notes": [
+    {
+      "id": "34782e2d-ced6-4858-be1c-9f75db2076bd",
+      "content": "Neque aut tenetur eveniet expedita aspernatur laborum fugiat et ut."
+    }
+  ]
+}
